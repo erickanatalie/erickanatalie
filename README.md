@@ -6,7 +6,7 @@
 - 👀 Tenho interesse em análise de dados, ciência de dados, segurança, governança e visualização de informações.  
 - 🌱 Atualmente Jr em  Python, SQL, Power BI e ferramentas de modelagem estatística.  
 - 💞️ Quero colaborar em projetos de análise de dados e desenvolvimento de dashboards interativos. 
-- 📫 Como me encontrar: https://github.com/erickanatalie
+- 📫 Como me encontrar:(https://www.linkedin.com/in/ericka-natalie-979223229/)
 - 😄 Pronomes: [ex.: ela/dela, ele/dele, elu/delu]
 - ⚡ Curiosidade: Adoro explorar novos conjuntos de dados e transformar números em histórias visuais!  
 
